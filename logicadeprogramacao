@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ExplicAe - Aprenda o que é a Lógica de Programação </title>
+    <link rel="stylesheet" href="../assets/styles/pages/css/index.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <nav>
+                <div class="logo">ExplicAe</div>
+                <ul class="nav-links">
+                    <li><a href="index.html">Início</a></li>
+                    <li><a href="#IoT-intro">Introdução</a></li>
+                    <li><a href="#video">conceitos</a></li>
+                    <li><a href="#exemplos">Exemplos</a></li>
+                    <li><a href="#conclusao">conclusão</a></li>
+                </ul>
+                <div class="menu-toggle">☰</div>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h1> O Básico de Lógica de Programação </h1>
+            <p>Aprenda conceitos básicos sobre Lógica de Programação </p>
+            <a href="#IoT-intro" class="btn">Começar a Aprender</a>
+        </div>
+    </section>
+
+    <section class="IoT-intro" id="IoT-intro">
+        <div class="container">
+            <h1 class="section-title">O que é Lógica de Programação?</h1>
+            <div class="texto-introducao">
+                <p>Lógica de programação é o conjunto de princípios e métodos que estruturam o pensamento computacional para resolver problemas de forma sistemática e eficiente.</p>
+                  <p> Ela envolve a criação de algoritmos, que são sequências de instruções lógicas para executar tarefas específicas, e é fundamental para o desenvolvimento de software.</p>
+               
+                         
+            </div>
+        </div>
+    </section>
+
+    <section class="video-section" id="video">
+        <div class="container">
+            <h1 class="section-title">historia em Vídeo</h1>
+            <div class="video-container">
+                <div class="video-placeholder">
+                    <iframe 
+                    width="100%" 
+                    height="100%" 
+                    src="https://www.youtube.com/embed/scQb3lqzXI" 
+                    frameborder="0" 
+                    allowfullscreen>
+                </iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="exemplos" id="exemplos">
+        <div class="container">
+            <h2 class="section-title">Importância da Lógica de Programação</h2>
+            <div class="exemplos-grid">
+                <div class="exemplo-card">
+                    <div class="code-block">                    
+                            <ul>
+                                <li>É a base do Desenvolvimento de Software.</li>
+                                <li>Define a sequência de instruções que o computador deve seguir para executar uma tarefa.</li>
+                                <li>É essencial para a construção de qualquer software.</li>
+                            </ul>
+
+                 
+                <div class="exemplo-card">
+                    <h3>conclusão</h3>
+                    <div class="code-block">
+                        <p> A lógica de programação é aplicável a diversas linguagens de programação, tornando-a um conhecimento fundamental para
+                             quem deseja aprender a programar.</p>
+                   
+            </div>
+        </div>
+    </section>
+
+
+    <footer>
+        <div class="container">
+            <h3>ExplicAe</h3>
+            <p>Seu portal para o mundo da tecnologia da informação</p>
+            <ul class="footer-links">
+                <li><a href="#">Sobre Nós</a></li>
+                <li><a href="#">Política de Privacidade</a></li>
+                <li><a href="#">Termos de Uso</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+            <p>&copy; 2025 ExplicAe. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+    <script src="../assets/styles/phyton/scripts/script.js"></script>
+</body>
+</html>
